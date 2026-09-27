@@ -27,15 +27,15 @@ A simple command-line billing program for the VIT Bhopal canteen. Students can c
 
 ## Run the program
 
-1. Save the Python code as `canteen_billing.py`.
+1. Save the Python code as `projectcode.py`.
 2. Open a terminal in the folder containing the file.
 3. Run:
 
    ```bash
-   python canteen_billing.py
+   projectcode.py
    ```
 
-   On some systems, use `python3 canteen_billing.py` instead.
+   On some systems, use `python3 projectcode.py` instead.
 
 ## Example
 
